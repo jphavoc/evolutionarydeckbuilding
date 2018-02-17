@@ -1,0 +1,212 @@
+
+=====
+(10, 20)-EA
+=====
+population size=20
+max generations=0.9
+max fitness=128
+number of games=16.0
+hero class=HUNTER
+
+opponents=[Aggro Paladin Meta Snapshot #17, Toefoo Rank 1 Cwarrior, Neviilz MalyGod Meta Snapshot #18, Phonetap's Mech Shaman, Mid-Range Druid Meta Snapshot #16, Purple Rank #1 Legend Midrange Hunter, Toefoo Rank 1 Oil Rogue, MatGagne Shadow Madness Priest, Hyunher Tempo Mage]
+=====
+GENERATION 0
+=====
+best=84
+worst=0
+infeasible rate=0.25
+mutation rate=0.45
+=====
+
+=====
+GENERATION 5
+=====
+best=96
+worst=39
+infeasible rate=0.5
+mutation rate=0.225
+=====
+
+=====
+GENERATION 10
+=====
+best=96
+worst=0
+infeasible rate=0.9
+mutation rate=0.1125
+=====
+
+=====
+GENERATION 15
+=====
+best=96
+worst=0
+infeasible rate=1.1
+mutation rate=0.05625
+=====
+
+=====
+GENERATION 20
+=====
+best=96
+worst=24
+infeasible rate=1.35
+mutation rate=0.028125
+=====
+
+=====
+GENERATION 25
+=====
+best=96
+worst=22
+infeasible rate=1.45
+mutation rate=0.0140625
+=====
+
+=====
+GENERATION 30
+=====
+best=96
+worst=0
+infeasible rate=1.55
+mutation rate=0.00703125
+=====
+
+=====
+GENERATION 35
+=====
+best=96
+worst=24
+infeasible rate=1.65
+mutation rate=0.003515625
+=====
+
+=====
+GENERATION 40
+=====
+best=96
+worst=0
+infeasible rate=1.9
+mutation rate=0.0017578125
+=====
+
+=====
+GENERATION 45
+=====
+best=96
+worst=0
+infeasible rate=2.05
+mutation rate=8.7890625E-4
+=====
+
+=====
+BEST
+=====
+[name=Wolfrider, class=ANY, rarity=FREE, mana=3]
+[name=Eerie Statue, class=ANY, rarity=COMMON, mana=4]
+[name=Bloodsail Corsair, class=ANY, rarity=RARE, mana=1]
+[name=Weasel Tunneler, class=ANY, rarity=EPIC, mana=1]
+[name=Secretkeeper, class=ANY, rarity=RARE, mana=1]
+[name=Flesheating Ghoul, class=ANY, rarity=COMMON, mana=3]
+[name=Southsea Deckhand, class=ANY, rarity=COMMON, mana=1]
+[name=Rogues Do it..., class=ANY, rarity=FREE, mana=4]
+[name=Gelbin Mekkatorque, class=ANY, rarity=LEGENDARY, mana=6]
+[name=Kezan Mystic, class=ANY, rarity=RARE, mana=4]
+[name=Stormpike Commando, class=ANY, rarity=FREE, mana=5]
+[name=Doomsayer, class=ANY, rarity=EPIC, mana=2]
+[name=Antique Healbot, class=ANY, rarity=COMMON, mana=5]
+[name=Prince Malchezaar, class=ANY, rarity=LEGENDARY, mana=5]
+[name=Blubber Baron, class=ANY, rarity=EPIC, mana=3]
+[name=Faceless Destroyer, class=ANY, rarity=FREE, mana=4]
+[name=Friendly Bartender, class=ANY, rarity=COMMON, mana=2]
+[name=Deathwing, Dragonlord, class=ANY, rarity=LEGENDARY, mana=10]
+[name=Silvermoon Guardian, class=ANY, rarity=COMMON, mana=4]
+[name=Dark Iron Dwarf, class=ANY, rarity=COMMON, mana=4]
+[name=Toshley, class=ANY, rarity=LEGENDARY, mana=6]
+[name=Bolf Ramshield, class=ANY, rarity=LEGENDARY, mana=6]
+[name=Spectral Spider, class=ANY, rarity=COMMON, mana=1]
+[name=Netherspite Historian, class=ANY, rarity=COMMON, mana=2]
+[name=Injured Blademaster, class=ANY, rarity=RARE, mana=3]
+[name=Dragonkin Sorcerer, class=ANY, rarity=RARE, mana=4]
+[name=Red Mana Wyrm, class=ANY, rarity=COMMON, mana=5]
+[name=Duskboar, class=ANY, rarity=COMMON, mana=2]
+[name=Stoneskin Gargoyle, class=ANY, rarity=COMMON, mana=3]
+[name=Murloc Raider, class=ANY, rarity=FREE, mana=1]
+
+
+=====
+MANA CURVE
+=====
+1=6
+2=4
+3=5
+4=7
+5=4
+6=3
+7=0
+7 or more=1
+
+=====
+FITNESS=96
+=====
+
+=====
+GAME STATISTICS
+=====
+
+opponent=Purple Rank #1 Legend Midrange Hunter
+WIN_RATE=100.00%DAMAGE_DEALT=35.4375HEALING_DONE=5.3125MANA_SPENT=31.0CARDS_PLAYED=11.625TURNS_TAKEN=8.375MINIONS_PLAYED=21.75HERO_POWER_USED=1.0
+
+opponent=MatGagne Shadow Madness Priest
+WIN_RATE=75.00%DAMAGE_DEALT=42.8125HEALING_DONE=6.6875MANA_SPENT=33.0625CARDS_PLAYED=11.8125TURNS_TAKEN=8.8125MINIONS_PLAYED=21.8125SPELLS_CAST=0.0625HERO_POWER_USED=1.1875
+
+opponent=Toefoo Rank 1 Cwarrior
+WIN_RATE=68.75%DAMAGE_DEALT=39.125HEALING_DONE=7.625MANA_SPENT=33.9375CARDS_PLAYED=12.75TURNS_TAKEN=8.6875MINIONS_PLAYED=23.4375SPELLS_CAST=0.0625HERO_POWER_USED=1.25
+
+opponent=Phonetap's Mech Shaman
+WIN_RATE=75.00%DAMAGE_DEALT=44.5HEALING_DONE=6.6875MANA_SPENT=37.625CARDS_PLAYED=13.1875TURNS_TAKEN=9.375MINIONS_PLAYED=24.625HERO_POWER_USED=1.3125
+
+opponent=Aggro Paladin Meta Snapshot #17
+WIN_RATE=62.50%DAMAGE_DEALT=39.625HEALING_DONE=4.0625MANA_SPENT=31.4375CARDS_PLAYED=11.0TURNS_TAKEN=8.3125MINIONS_PLAYED=20.9375SPELLS_CAST=0.0625HERO_POWER_USED=0.875
+
+opponent=Hyunher Tempo Mage
+WIN_RATE=75.00%DAMAGE_DEALT=43.125HEALING_DONE=4.9375MANA_SPENT=33.4375CARDS_PLAYED=11.6875TURNS_TAKEN=8.875MINIONS_PLAYED=22.5SPELLS_CAST=0.0625HERO_POWER_USED=0.875
+
+opponent=Mid-Range Druid Meta Snapshot #16
+WIN_RATE=62.50%DAMAGE_DEALT=43.5625HEALING_DONE=4.5MANA_SPENT=34.4375CARDS_PLAYED=11.6875TURNS_TAKEN=8.4375MINIONS_PLAYED=22.8125HERO_POWER_USED=0.75
+
+opponent=Toefoo Rank 1 Oil Rogue
+WIN_RATE=75.00%DAMAGE_DEALT=37.9375HEALING_DONE=6.5625MANA_SPENT=33.0625CARDS_PLAYED=11.375TURNS_TAKEN=8.625MINIONS_PLAYED=22.1875SPELLS_CAST=0.0625HERO_POWER_USED=0.6875
+
+opponent=Neviilz MalyGod Meta Snapshot #18
+WIN_RATE=75.00%DAMAGE_DEALT=38.25HEALING_DONE=4.6875MANA_SPENT=29.8125CARDS_PLAYED=10.9375TURNS_TAKEN=8.125MINIONS_PLAYED=20.8125SPELLS_CAST=0.0625HERO_POWER_USED=0.75
+
+=====
+JENETICS STATISTICS
+=====
++---------------------------------------------------------------------------+
+|  Time statistics                                                          |
++---------------------------------------------------------------------------+
+|             Selection: sum=0.008533422000 s; mean=0.000170668440 s        |
+|              Altering: sum=0.070765840000 s; mean=0.001415316800 s        |
+|   Fitness calculation: sum=892.172957651000 s; mean=17.843459153020 s     |
+|     Overall execution: sum=892.272474055000 s; mean=17.845449481100 s     |
++---------------------------------------------------------------------------+
+|  Evolution statistics                                                     |
++---------------------------------------------------------------------------+
+|           Generations: 50                                                 |
+|               Altered: sum=456; mean=9.120000000                          |
+|                Killed: sum=0; mean=0.000000000                            |
+|              Invalids: sum=0; mean=0.000000000                            |
++---------------------------------------------------------------------------+
+|  Population statistics                                                    |
++---------------------------------------------------------------------------+
+|                   Age: max=45; mean=14.383000; var=229.780091             |
+|               Fitness:                                                    |
+|                      min  = 0.000000000000                                |
+|                      max  = 96.000000000000                               |
+|                      mean = 74.640000000000                               |
+|                      var  = 891.119519519520                              |
+|                      std  = 29.851625073344                               |
++---------------------------------------------------------------------------+
+infeasible rate=1035

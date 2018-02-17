@@ -1,0 +1,60 @@
+group 'evolutionarydeckbuilding'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+
+    // metastone simulator
+    compile name: 'app-1.3.0'
+    compile name: 'game-1.3.0'
+    compile name: 'cards-1.3.0'
+    compile name: 'shared-1.3.0'
+    compile name: 'nitty-gritty-mvc'
+    compile name: 'controlsfx-8.40.10-20151003.010657-492'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5'
+    compile group: 'com.google.code.gson', name: 'gson', version: '2.8.2'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
+
+    // https://mvnrepository.com/artifact/com.panayotis.javaplot/javaplot
+    compile group: 'com.panayotis.javaplot', name: 'javaplot', version: '0.5.0'
+    // https://mvnrepository.com/artifact/com.kitfox.svg/svg-salamander
+    compile group: 'com.kitfox.svg', name: 'svg-salamander', version: '1.0'
+
+    //jenetics
+    compile 'io.jenetics:jenetics:3.9.0'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile 'org.slf4j:slf4j-api:1.7.24'
+    compile 'org.slf4j:slf4j-simple:1.7.24'
+
+
+//create a single Jar with all dependencies
+    task fatJar(type: Jar) {
+        manifest {
+            attributes 'Implementation-Title': 'Gradle Jar File Example', 'Implementation-Version': version, 'Main-Class': 'main.GA'
+        }
+
+
+        doFirst {
+            from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+        }
+        exclude 'META-INF/*.RSA', 'META-INF/*.SF','META-INF/*.DSA'
+
+        baseName = project.name + '-all'
+        from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+        with jar
+    }
+
+
+}

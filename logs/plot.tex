@@ -1,0 +1,33 @@
+
+
+\begin{document}
+
+% fitness progress
+\begin{figure}
+    \begin{tikzpicture}%[y=.2cm, x=.7cm,font=\sffamily]
+
+		\begin{axis}[
+		  % axis x line=center,
+		  % axis y line=center,
+		  % xtick={0,1,...,50},
+		  % ytick={0,1,...,10},
+		  xlabel={$x$},
+		  ylabel={$y$},
+		  % xlabel style={below right},
+		  % ylabel style={above left},
+		  xmin=0,
+		  xmax=50,
+		  ymin=0,
+		  ymax=130
+		  ]
+		    %plots
+		    \addplot table {worst.data};
+		    \addplot table {avg.data};
+		    \addplot table {best.data};
+
+	    \end{axis}
+
+  \end{tikzpicture}
+\end{figure}
+
+\begin{end}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :nitty-gritty-mvc:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/nitty-gritty-mvc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

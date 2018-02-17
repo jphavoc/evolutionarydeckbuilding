@@ -1,0 +1,257 @@
+
+=====
+(10, 10)-EA
+=====
+population size=10
+max generations=0.9
+max fitness=128
+number of games=16.0
+hero class=HUNTER
+
+opponents=[Aggro Paladin Meta Snapshot #17, Toefoo Rank 1 Cwarrior, Neviilz MalyGod Meta Snapshot #18, Phonetap's Mech Shaman, Mid-Range Druid Meta Snapshot #16, Purple Rank #1 Legend Midrange Hunter, Toefoo Rank 1 Oil Rogue, MatGagne Shadow Madness Priest, Hyunher Tempo Mage]
+=====
+Initial Deck
+=====
+[name=Abusive Sergeant, class=ANY, rarity=COMMON, mana=1]
+[name=Loatheb, class=ANY, rarity=LEGENDARY, mana=5]
+[name=Mad Scientist, class=ANY, rarity=COMMON, mana=2]
+[name=Mad Scientist, class=ANY, rarity=COMMON, mana=2]
+[name=Unleash the Hounds, class=HUNTER, rarity=COMMON, mana=3]
+[name=Sludge Belcher, class=ANY, rarity=RARE, mana=5]
+[name=Sludge Belcher, class=ANY, rarity=RARE, mana=5]
+[name=Abusive Sergeant, class=ANY, rarity=COMMON, mana=1]
+[name=Knife Juggler, class=ANY, rarity=RARE, mana=2]
+[name=Piloted Shredder, class=ANY, rarity=COMMON, mana=4]
+[name=Haunted Creeper, class=ANY, rarity=COMMON, mana=2]
+[name=Kill Command, class=HUNTER, rarity=FREE, mana=3]
+[name=Eaglehorn Bow, class=HUNTER, rarity=RARE, mana=3]
+[name=Piloted Shredder, class=ANY, rarity=COMMON, mana=4]
+[name=Explosive Trap, class=HUNTER, rarity=COMMON, mana=2]
+[name=Freezing Trap, class=HUNTER, rarity=COMMON, mana=2]
+[name=Freezing Trap, class=HUNTER, rarity=COMMON, mana=2]
+[name=Sludge Belcher, class=ANY, rarity=RARE, mana=5]
+[name=Mad Scientist, class=ANY, rarity=COMMON, mana=2]
+[name=Glaivezooka, class=HUNTER, rarity=COMMON, mana=2]
+[name=Glaivezooka, class=HUNTER, rarity=COMMON, mana=2]
+[name=Knife Juggler, class=ANY, rarity=RARE, mana=2]
+[name=Abusive Sergeant, class=ANY, rarity=COMMON, mana=1]
+[name=Mad Scientist, class=ANY, rarity=COMMON, mana=2]
+[name=Piloted Shredder, class=ANY, rarity=COMMON, mana=4]
+[name=Abusive Sergeant, class=ANY, rarity=COMMON, mana=1]
+[name=Piloted Shredder, class=ANY, rarity=COMMON, mana=4]
+[name=Knife Juggler, class=ANY, rarity=RARE, mana=2]
+[name=Explosive Trap, class=HUNTER, rarity=COMMON, mana=2]
+[name=Glaivezooka, class=HUNTER, rarity=COMMON, mana=2]
+
+
+=====
+GENERATION 0
+=====
+best=109
+avg=80.8
+worst=33.0
+infeasible rate=0.0
+mutation rate=0.45
+=====
+
+=====
+GENERATION 5
+=====
+best=114
+avg=97.7
+worst=42.0
+infeasible rate=0.1
+mutation rate=0.225
+=====
+
+=====
+GENERATION 10
+=====
+best=114
+avg=103.4
+worst=45.0
+infeasible rate=0.1
+mutation rate=0.1125
+=====
+
+=====
+GENERATION 15
+=====
+best=114
+avg=112.4
+worst=98.0
+infeasible rate=0.2
+mutation rate=0.05625
+=====
+
+=====
+GENERATION 20
+=====
+best=114
+avg=96.7
+worst=46.0
+infeasible rate=0.4
+mutation rate=0.028125
+=====
+
+=====
+GENERATION 25
+=====
+best=121
+avg=121.0
+worst=121.0
+infeasible rate=0.4
+mutation rate=0.028125
+=====
+
+=====
+GENERATION 30
+=====
+best=121
+avg=115.6
+worst=67.0
+infeasible rate=0.7
+mutation rate=0.0140625
+=====
+
+=====
+GENERATION 35
+=====
+best=121
+avg=108.5
+worst=48.0
+infeasible rate=0.7
+mutation rate=0.00703125
+=====
+
+=====
+GENERATION 40
+=====
+best=121
+avg=99.8
+worst=39.0
+infeasible rate=0.8
+mutation rate=0.003515625
+=====
+
+=====
+GENERATION 45
+=====
+best=121
+avg=118.4
+worst=95.0
+infeasible rate=0.8
+mutation rate=0.0017578125
+=====
+
+=====
+BEST
+=====
+[name=Burgly Bully, class=ANY, rarity=EPIC, mana=5]
+[name=Wolfrider, class=ANY, rarity=FREE, mana=3]
+[name=Flare, class=HUNTER, rarity=RARE, mana=2]
+[name=Ysera Awakens, class=ANY, rarity=FREE, mana=2]
+[name=Archmage, class=ANY, rarity=FREE, mana=6]
+[name=Boulderfist Ogre, class=ANY, rarity=FREE, mana=6]
+[name=Mechanical Dragonling, class=ANY, rarity=FREE, mana=1]
+[name=Eaglehorn Bow, class=HUNTER, rarity=RARE, mana=3]
+[name=Raid Leader, class=ANY, rarity=FREE, mana=3]
+[name=The Beast, class=ANY, rarity=LEGENDARY, mana=6]
+[name=Mind Control Tech, class=ANY, rarity=RARE, mana=3]
+[name=Hozen Healer, class=ANY, rarity=COMMON, mana=4]
+[name=Snipe, class=HUNTER, rarity=COMMON, mana=2]
+[name=Wisp, class=ANY, rarity=COMMON, mana=0]
+[name=Dream, class=ANY, rarity=FREE, mana=0]
+[name=Aberrant Berserker, class=ANY, rarity=COMMON, mana=4]
+[name=Faceless Destroyer, class=ANY, rarity=FREE, mana=4]
+[name=Murloc Scout, class=ANY, rarity=FREE, mana=1]
+[name=Nerubian Prophet, class=ANY, rarity=COMMON, mana=6]
+[name=Backroom Bouncer, class=ANY, rarity=RARE, mana=4]
+[name=The Coin, class=ANY, rarity=FREE, mana=0]
+[name=Zoobot, class=ANY, rarity=COMMON, mana=3]
+[name=Leatherclad Hogleader, class=ANY, rarity=EPIC, mana=6]
+[name=Big Bad Wolf, class=HUNTER, rarity=COMMON, mana=2]
+[name=Hyena, class=HUNTER, rarity=RARE, mana=2]
+[name=Spiked Hogrider, class=ANY, rarity=RARE, mana=5]
+[name=Medivh, the Guardian, class=ANY, rarity=LEGENDARY, mana=8]
+[name=Molten Giant, class=ANY, rarity=EPIC, mana=25]
+[name=Mad Bomber, class=ANY, rarity=COMMON, mana=2]
+[name=Infested Tauren, class=ANY, rarity=COMMON, mana=4]
+
+
+=====
+MANA CURVE
+=====
+1=2
+2=6
+3=5
+4=5
+5=2
+6=5
+7=0
+7 or more=5
+
+=====
+FITNESS=121
+=====
+
+=====
+GAME STATISTICS
+=====
+
+opponent=Purple Rank #1 Legend Midrange Hunter
+WIN_RATE=93.75%DAMAGE_DEALT=24.3125HEALING_DONE=1.25MANA_SPENT=27.25CARDS_PLAYED=10.5625TURNS_TAKEN=8.1875MINIONS_PLAYED=15.9375SPELLS_CAST=1.1875HERO_POWER_USED=1.5
+
+opponent=MatGagne Shadow Madness Priest
+WIN_RATE=100.00%DAMAGE_DEALT=24.0625HEALING_DONE=0.6875MANA_SPENT=25.25CARDS_PLAYED=9.0625TURNS_TAKEN=7.75MINIONS_PLAYED=14.8125SPELLS_CAST=1.0625HERO_POWER_USED=0.75
+
+opponent=Toefoo Rank 1 Cwarrior
+WIN_RATE=93.75%DAMAGE_DEALT=25.75MANA_SPENT=25.375CARDS_PLAYED=9.4375TURNS_TAKEN=7.75MINIONS_PLAYED=14.6875SPELLS_CAST=0.9375HERO_POWER_USED=1.3125
+
+opponent=Phonetap's Mech Shaman
+WIN_RATE=100.00%DAMAGE_DEALT=24.0625HEALING_DONE=1.1875MANA_SPENT=28.25CARDS_PLAYED=10.375TURNS_TAKEN=8.25MINIONS_PLAYED=16.125SPELLS_CAST=1.0625HERO_POWER_USED=1.4375
+
+opponent=Aggro Paladin Meta Snapshot #17
+WIN_RATE=93.75%DAMAGE_DEALT=30.75HEALING_DONE=0.75MANA_SPENT=31.5625CARDS_PLAYED=10.9375TURNS_TAKEN=8.625MINIONS_PLAYED=17.125SPELLS_CAST=1.1875HERO_POWER_USED=1.375
+
+opponent=Hyunher Tempo Mage
+WIN_RATE=100.00%DAMAGE_DEALT=23.4375MANA_SPENT=23.125CARDS_PLAYED=9.1875TURNS_TAKEN=7.6875MINIONS_PLAYED=14.5625SPELLS_CAST=1.0HERO_POWER_USED=1.0625
+
+opponent=Mid-Range Druid Meta Snapshot #16
+WIN_RATE=93.75%DAMAGE_DEALT=21.375HEALING_DONE=0.8125MANA_SPENT=24.625CARDS_PLAYED=9.125TURNS_TAKEN=7.5625MINIONS_PLAYED=14.1875SPELLS_CAST=1.0625HERO_POWER_USED=1.0
+
+opponent=Toefoo Rank 1 Oil Rogue
+WIN_RATE=87.50%DAMAGE_DEALT=26.1875HEALING_DONE=0.3125MANA_SPENT=27.5625CARDS_PLAYED=9.5TURNS_TAKEN=8.0MINIONS_PLAYED=15.5SPELLS_CAST=0.8125HERO_POWER_USED=1.0625
+
+opponent=Neviilz MalyGod Meta Snapshot #18
+WIN_RATE=87.50%DAMAGE_DEALT=24.75HEALING_DONE=0.4375MANA_SPENT=27.875CARDS_PLAYED=10.6875TURNS_TAKEN=8.25MINIONS_PLAYED=16.4375SPELLS_CAST=0.9375HERO_POWER_USED=1.625
+
+=====
+JENETICS STATISTICS
+=====
++---------------------------------------------------------------------------+
+|  Time statistics                                                          |
++---------------------------------------------------------------------------+
+|             Selection: sum=0.006128640000 s; mean=0.000122572800 s        |
+|              Altering: sum=0.009218358000 s; mean=0.000184367160 s        |
+|   Fitness calculation: sum=190.562763510000 s; mean=3.811255270200 s      |
+|     Overall execution: sum=190.582175435000 s; mean=3.811643508700 s      |
++---------------------------------------------------------------------------+
+|  Evolution statistics                                                     |
++---------------------------------------------------------------------------+
+|           Generations: 50                                                 |
+|               Altered: sum=117; mean=2.340000000                          |
+|                Killed: sum=0; mean=0.000000000                            |
+|              Invalids: sum=0; mean=0.000000000                            |
++---------------------------------------------------------------------------+
+|  Population statistics                                                    |
++---------------------------------------------------------------------------+
+|                   Age: max=26; mean=8.320000; var=57.175952               |
+|               Fitness:                                                    |
+|                      min  = 0.000000000000                                |
+|                      max  = 121.000000000000                              |
+|                      mean = 103.030000000000                              |
+|                      var  = 815.752605210421                              |
+|                      std  = 28.561383110949                               |
++---------------------------------------------------------------------------+
+infeasible rate=36
